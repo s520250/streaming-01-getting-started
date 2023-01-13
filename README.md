@@ -1,3 +1,8 @@
+## Sammie Bever
+## Module 01 Assignment
+## GitHub: https://github.com/s520250/streaming-01-getting-started
+
+
 # streaming-01-getting-started
 
 > An opinionated way to get started with Python for streaming analytics
